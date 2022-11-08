@@ -1,3 +1,3 @@
-const frutas = ["naranja", "tomate", "pera"]
+const frutas = ["naranja", "tomate", "pera", "cereza"]
 
 module.exports = frutas
